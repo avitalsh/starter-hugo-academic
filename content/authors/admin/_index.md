@@ -1,7 +1,7 @@
 ---
 title: Avital Shafran
 role: PhD Student
-avatar_filename: ""
+avatar_filename: avital_shafran_picture.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
