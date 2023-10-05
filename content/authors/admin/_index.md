@@ -9,22 +9,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AvitalShafran
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=h58d7XQAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/avital-shafran-b5443b155/
 organizations:
   - name: The Hebrew University of Jerusalem
 education:
