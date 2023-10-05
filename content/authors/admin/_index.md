@@ -21,6 +21,7 @@ social:
     link: https://www.linkedin.com/avital-shafran-b5443b155/
 organizations:
   - name: The Hebrew University of Jerusalem
+    url: https://www.cs.huji.ac.il/
 education:
   courses:
     - course: PhD in Computer Science
