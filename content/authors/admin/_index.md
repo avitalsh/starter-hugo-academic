@@ -39,7 +39,7 @@ education:
     - course: MSc in Computer Science
       institution: The Hebrew University of Jerusalem
       year: 2027
-    - course: "BSc in Electrical and Computer Engineering "
+    - course: "BSc in Computer Engineering "
       institution: The Hebrew University of Jerusalem
       year: 2017
 superuser: true
