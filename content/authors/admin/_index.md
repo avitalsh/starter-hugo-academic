@@ -27,10 +27,10 @@ education:
     - course: PhD in Computer Science
       institution: The Hebrew University of Jerusalem
       year: ""
-    - course: MSc in Computer Science
+    - course: M.Sc. in Computer Science
       institution: The Hebrew University of Jerusalem
       year: 2020
-    - course: "BSc in Computer Engineering "
+    - course: "B.Sc. in Computer Engineering "
       institution: The Hebrew University of Jerusalem
       year: 2017
 superuser: true
