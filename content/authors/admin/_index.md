@@ -30,19 +30,18 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Hebrew University of Jerusalem
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: The Hebrew University of Jerusalem
+      year: ""
+    - course: MSc in Computer Science
+      institution: The Hebrew University of Jerusalem
+      year: 2027
+    - course: "BSc in Electrical and Computer Engineering "
+      institution: The Hebrew University of Jerusalem
+      year: 2017
 superuser: true
 status:
   icon: ☕️
