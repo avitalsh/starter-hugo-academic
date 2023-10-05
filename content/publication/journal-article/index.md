@@ -1,5 +1,5 @@
 ---
-title: "Crypto-Oriented Neural Architecture Design"
+title: "Crypto-Oriented Neural Architecture Design 2"
 authors:
 - admin
 - Gil Segev
