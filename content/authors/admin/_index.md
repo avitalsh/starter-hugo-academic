@@ -2,8 +2,7 @@
 title: Avital Shafran
 role: PhD Student
 avatar_filename: avital_shafran_picture.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -52,6 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a PhD student at the Hebrew University, advised by Prof. Shmuel Peleg and Prof. Gil Segev.
