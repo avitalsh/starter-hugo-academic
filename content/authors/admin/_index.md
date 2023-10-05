@@ -3,10 +3,6 @@ title: Avital Shafran
 role: PhD Student
 avatar_filename: avital_shafran_picture.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
