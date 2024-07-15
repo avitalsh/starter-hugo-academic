@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://eprint.iacr.org/2024/1126.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
