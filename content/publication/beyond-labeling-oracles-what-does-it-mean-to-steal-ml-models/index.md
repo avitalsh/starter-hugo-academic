@@ -8,11 +8,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-10-01T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2024-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2310.01959.pdf
+url_pdf: https://openreview.net/pdf?id=950naKZIyh
 url_code: ''
 url_dataset: ''
 url_poster: ''
