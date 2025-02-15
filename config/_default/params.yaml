@@ -24,9 +24,9 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
-    google: ''
+    google: '8EQuruwYcNjp2Tl82cjs-6TKwPJjXYsexa9ixjfiBEM'
     baidu: ''
 
 # Site header
