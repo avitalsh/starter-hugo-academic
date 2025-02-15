@@ -11,7 +11,7 @@ date: "2024-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-09T00:00:00Z"
+publishDate: "2025-08-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,7 +19,7 @@ publishDate: "2024-06-09T00:00:00Z"
 publication_types: ["conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: "preprint"
+publication: "USENIX Security 2025"
 publication_short: ""
 
 abstract: |
