@@ -19,7 +19,7 @@ publishDate: "2025-08-13T00:00:00Z"
 publication_types: ["conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: "USENIX Security 2025"
+publication: "USENIX Security Symposium 2025"
 publication_short: ""
 
 abstract: |
