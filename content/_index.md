@@ -15,10 +15,10 @@ sections:
     id: publications
     content:
       title: Publications
-      # text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
+#     text: |-
+#      {{% callout note %}}
+#      Quickly discover relevant content by [filtering publications](./publication/).
+#      {{% /callout %}}
       filters:
         folders:
           - publication
@@ -26,23 +26,14 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: features
+  - block: markdown
     id: service
     content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+      title: Service
+      text: |-
+        ### Program Committees
+        - SaTML 2023,2024,2025
+        
   - block: contact
     id: contact
     content:
