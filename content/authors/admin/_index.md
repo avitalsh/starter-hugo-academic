@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=h58d7XQAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/avital-shafran-b5443b155/
+    link: https://www.linkedin.com/in/avital-shafran-b5443b155/
 organizations:
   - name: The Hebrew University of Jerusalem
     url: https://www.cs.huji.ac.il/
