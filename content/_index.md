@@ -31,8 +31,9 @@ sections:
     content:
       title: Service
       text: |-
-        ### Program Committees
-        - SaTML 2023,2024,2025
+        - Organizer of the NeurIPS 2024 Workshop: “Red Teaming GenAI: What Can We Learn from Adversaries?”
+        - Reviewer at IEEE SaTML (Secure and Trustworthy ML) 2023-2025
+        - Reviewer at USENIX security 2025
         
   - block: contact
     id: contact
