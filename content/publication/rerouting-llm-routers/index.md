@@ -20,7 +20,7 @@ publishDate: "2025-01-03T00:00:00Z"
 publication_types: ["conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: "preprint"
+publication: "COLM 2025"
 publication_short: ""
 
 abstract: |
