@@ -33,7 +33,7 @@ sections:
       text: |-
         
         - **Organizer** of the NeurIPS 2024 Workshop: “[Red Teaming GenAI: What Can We Learn from Adversaries?](https://redteaming-gen-ai.github.io/)”
-        - **Reviewer** at IEEE SaTML 2023-2026, USENIX security 2025-2026, AsiaCCS 2026
+        - **Reviewer** at IEEE SaTML 2023-2026, USENIX security 2025-2026, AsiaCCS 2026, ACM CCS 2026
     design:
       columns: '2'
   - block: contact
