@@ -20,7 +20,7 @@ publishDate: "2026-05-05T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Preprint"
 publication_short: ""
 
 abstract: |
