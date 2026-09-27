@@ -21,10 +21,10 @@ publishDate: "2026-07-20T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
+publication: "NeurIPS 2026"
 publication_short: ""
 
 abstract: |
