@@ -9,9 +9,9 @@ authors:
 - Orr Dunkelman
 - Eyal Ronen
 - Florian Tramèr
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2026-07-20T00:00:00Z"
 doi: ""
 
