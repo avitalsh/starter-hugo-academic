@@ -1,14 +1,14 @@
 ---
 title: "Render Before Reading: Visual Rendering as a Prompt Injection Defense"
 authors:
-- Jie Zhang
-- Andrei Baroian
+- Jie Zhang*
+- Andrei Baroian*
 - Jan N. van Rijn
 - admin
 - Florian Tramèr
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2026-05-05T00:00:00Z"
 doi: ""
 
